@@ -9,6 +9,8 @@ labels:
   - Learning
 ---
 
+<img class="ui medium left floated image" src="../images/doodad.jpg">
+
 I've always known I wanted to have a career that centered around computers and technology. I'd say I got my first taste of "programming" in elementary school, even though I hadn't realized it. I was a big fan of the video game Starcraft, and probably logged hundreds of hours into that game growing up. But in the start menu of the game was the option to open the "Map Editor." Basically, this opened a blank file of the game engine that was used to make the game itself. From there, you could create your own maps, levels, and games using what they provided you. (If anyone is familiar with DotA 2 or League of Legends, you might know that the original DotA was created as a custom Warcraft map using the Warcraft map editor, which is a more advanced version of the Starcraft map editor. In fact, the first DotA was based off of a Starcraft custom map called Aeon of Strife)
 
 The real "programming" in this engine came down to things called "Conditions" and "Triggers" which could be viewed as "If" and "Else" statements. For example, "If Player 1 has 10 resources at any point, he wins the game" or "If Player 2 walks a unit into this zone, destroy that unit" and so on. Since my Google-fu skills weren't up to par back then, I basically taught myself (with the help of a confounding manual) how to use the engine through brute force and "guess and check" type testing, where I kept trying to make it work until it worked. Granted, I was never able to create anything decent or anything anyone else would play, but learning how the game worked, and gaining insight into something that was formerly beyond my ken as a child was extremely satisfying.
