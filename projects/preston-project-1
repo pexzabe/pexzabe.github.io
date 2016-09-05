@@ -2,8 +2,8 @@
 layout: project
 type: project
 image: images/java.jpg
-title: UH Manoa ICS core coursework
-permalink: projects/micromouse
+title: Coursework
+permalink: projects/coursework
 date: 2016
 labels:
   - Programming
