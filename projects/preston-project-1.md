@@ -11,8 +11,9 @@ labels:
   - C
 summary: The things I've done and the things I've learned
 ---
-
-<img class="ui image" src="../images/java.jpg">
+<div class="ui small rounded images">
+   <img class="ui image" src="../images/java.jpg">
+</div>
 
 111: Learned the fundamentals of computer science, emphasizing problem solving, algorithm development, and debugging/testing using an object oriented language.
 
