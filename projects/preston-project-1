@@ -2,8 +2,8 @@
 layout: project
 type: project
 image: images/java.jpg
-title: Coursework
-permalink: projects/coursework
+title: UH Manoa ICS core Coursework
+permalink: projects/preston-project-1
 date: 2016
 labels:
   - Programming
